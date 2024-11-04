@@ -2,8 +2,8 @@
 #November 4, 2024
 #CS583-3D Game Programming
 
-Markup: #Title: Raging Squares#
-Markup: ###Genre: top-down shooter###
+Markup : #Title: Raging Squares#
+Markup : ###Genre: top-down shooter###
 
 Description:
 Initially, I wanted to make a multi-leveled top-down shooter with different power ups, 2 different difficulties, and mini-custcenes.
@@ -17,6 +17,7 @@ New changes include:
 
 Challenges:
 Unfortunately due to time constraints, there are a number of implementations that I was unable to implement such as...
+
  *Being able to "parry" enemy bullets
  *Expand the play area
  *More enemy variety (as of now, there are only 2 enemy types)
