@@ -2,8 +2,8 @@
 #November 4, 2024
 #CS583-3D Game Programming
 
-Title: Raging Squares
-Genre: top-down shooter
+Markup: #Title: Raging Squares#
+Markup: ###Genre: top-down shooter###
 
 Description:
 Initially, I wanted to make a multi-leveled top-down shooter with different power ups, 2 different difficulties, and mini-custcenes.
