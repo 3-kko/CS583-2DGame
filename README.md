@@ -4,7 +4,7 @@
 
 #CS583-3D Game Programming
 
-# Title: Raging Squares#
+# Title: Raging Squares
 ### Genre: top-down shooter###
 
 Description:
