@@ -2,7 +2,7 @@
 #November 4, 2024
 #CS583-3D Game Programming
 
-Title: Rage Against
+Title: Raging Squares
 Genre: top-down shooter
 
 Description:
@@ -12,4 +12,12 @@ dramatically.
 
 New changes include:
 Now a single-level game with the goal being to defeat the boss
-boss has a "second phase" in which he gets faster and more enemies spawn
+Boss has a "second phase" in which he gets faster and other enemies start to spawn (begins at 75% health)
+Game ends when either player dies or boss is killed.
+
+Challenges:
+Unfortunately due to time constraints, there are a number of implementations that I was unable to implement such as...
+Being able to "parry" enemy bullets
+Expand the play area
+More enemy variety (as of now, there are only 2 enemy types)
+stage hazards (the "water areas" of the map were intended to slow the player, and bushes were meant to have collision)
