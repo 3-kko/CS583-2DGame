@@ -1,6 +1,6 @@
 #Mikko Benaso, 822702459
-#November 4, 2024
-#CS583-3D Game Programming
+/n#November 4, 2024
+/n#CS583-3D Game Programming
 
 Markup : #Title: Raging Squares#
 Markup : ###Genre: top-down shooter###
