@@ -25,3 +25,7 @@ Unfortunately due to time constraints, there are a number of implementations tha
  * Expand the play area
  * More enemy variety (as of now, there are only 2 enemy types)
  * stage hazards (the "water areas" of the map were intended to slow the player, and bushes were meant to have collision)
+
+Bugs:
+ * After peer feedback, I implemented a mute button for the audio. However, this results in the music not pausing or resetting if the player wins/dies and restarts the game
+ * When player dies, their weapon still shoots bullets
