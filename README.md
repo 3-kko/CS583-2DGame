@@ -6,7 +6,7 @@
 
 # Title: Raging Squares
 ### Genre: top-down shooter###
-
+ 
 Description:
 Initially, I wanted to make a multi-leveled top-down shooter with different power ups, 2 different difficulties, and mini-custcenes.
 However in response to TA feedback, I have come to realize that the scope of this game was a bit too ambitious and so I scaled it back 
